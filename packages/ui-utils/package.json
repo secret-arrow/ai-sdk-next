@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@ai-sdk/provider-utils": "0.0.16",
-    "secure-json-parse": "2.7.0"
+    "secure-json-parse": "3.0.2"
   },
   "devDependencies": {
     "@types/react": "^18",
